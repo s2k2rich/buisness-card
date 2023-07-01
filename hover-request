@@ -39,6 +39,7 @@ body {
 .border-blue {
     border: 1px dotted blue;
 }
+
 h3:hover, 
 p:hover,
 h4:hover{
