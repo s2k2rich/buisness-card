@@ -11,7 +11,7 @@ body {
 .avatar {
     
     height: 125px;
-    border: 1px dotted #3A2618;
+    border: 3px double #5e6d7a;
     border-radius: 10px;
 }
 
@@ -37,13 +37,14 @@ body {
 }
 
 .border-blue {
-    border: 1px dotted blue;
+    border: 1px double #5e6d7a;
 }
 
 h3:hover, 
 p:hover,
-h4:hover{
-  background-color: pink;
+h4:hover,
+.avatar:hover{
+  background-color: #2a4661;
   }
 
 /*
